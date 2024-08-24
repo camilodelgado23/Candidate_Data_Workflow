@@ -1,1 +1,9 @@
 venv/
+
+credentials.py 
+
+
+__pycache__/
+
+
+estructura.txt
