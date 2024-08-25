@@ -3,11 +3,13 @@ from mysql.connector import Error
 import sys
 import os
 
+# Puede instalar las librerias ejecutando el siguiente comando en la terminal: pip install -r requirements.txt
+
 # Añadir el directorio raíz al sys.path para permitir importaciones
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # Importar las credenciales
-import credentials
+import credentials as credentials
 
 def create_connection():
     """Create a database connection."""
