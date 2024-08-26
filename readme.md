@@ -95,22 +95,22 @@ Para realizar las visualizaciones de datos tenemos que conectar la Base de Datos
 
 Nos vamos a PowerBI y lo iniciamos, nos vamos a la pantalla de inicio y le damos a obtener datos donde buscaremos la opción de Base de datos MySQL 
 
-![Texto alternativo](imagenes\1.png)
+![Texto alternativo](https://imagenes.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fb687bcac-6636-49ac-8ce3-1adf66aa571c%2F4539b281-2eba-4cec-a5c7-fec87fab4788%2F1.png?table=block&id=bbd0ce8c-679a-4172-9554-83256498112d&spaceId=b687bcac-6636-49ac-8ce3-1adf66aa571c&width=1420&userId=&cache=v2)
 
 Nos toca descargar un conector nos dirigimos al siguiente enlace y lo descargamos
 
 Descargar conector: https://dev.mysql.com/downloads/connector/net/
 
-![Texto alternativo](imagenes\1.png)
+![Texto alternativo](https://imagenes.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fb687bcac-6636-49ac-8ce3-1adf66aa571c%2F9a782ec1-3061-493a-af7b-f33dcb7050d2%2F2.1.png?table=block&id=f11e0989-9b38-43fd-82d3-f2fb2779dc75&spaceId=b687bcac-6636-49ac-8ce3-1adf66aa571c&width=1420&userId=&cache=v2)
 
 Ingresamos el nombre del servidor y el de nuestra Base de datos 
 
-![Texto alternativo](imagenes\2.1.png)
+![Texto alternativo](https://imagenes.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fb687bcac-6636-49ac-8ce3-1adf66aa571c%2F610cfd99-14fe-42d2-af6f-56b7938d56cf%2F2.png?table=block&id=3c8dfff3-b062-4e3d-a717-21a7c3ae2da1&spaceId=b687bcac-6636-49ac-8ce3-1adf66aa571c&width=1420&userId=&cache=v2)
 
 Seleccionamos Base de datos y Colocamos nuestro usuario y contraseña 
 
-![Texto alternativo](imagenes\2.png)
+![Texto alternativo](https://imagenes.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fb687bcac-6636-49ac-8ce3-1adf66aa571c%2Fe2ab8ccb-f840-4ec1-adc6-46b4174fe76c%2F3.png?table=block&id=3a0475da-07f1-40d6-a8aa-91010f552e16&spaceId=b687bcac-6636-49ac-8ce3-1adf66aa571c&width=1420&userId=&cache=v2)
 
 Finalmente seleccionamos las tablas que vamos a usar en este caso usaremos la de candidates_contratados 
 
-![Texto alternativo](imagenes\3.png)
+![Texto alternativo](https://imagenes.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fb687bcac-6636-49ac-8ce3-1adf66aa571c%2Fd8646e93-1d66-434c-b2eb-66216c016e56%2Fimage.png?table=block&id=feffc280-9bfc-4f48-83e2-14b289894e8b&spaceId=b687bcac-6636-49ac-8ce3-1adf66aa571c&width=1420&userId=&cache=v2)
