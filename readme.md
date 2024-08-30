@@ -13,7 +13,7 @@ En este workshop se recibió un dataset con candidatos a la espera de ser contra
     - Virtual Environment (venv): Para gestionar dependencias y aislar el entorno de desarrollo.
 
 - MySQL:
-    - MySQL Workbench: Para gestión y administración de bases de datos MySQL, incluyendo la ejecución de consultas SQL.
+    - MySQL Workbench: Para gestión y administración de bases de datos MySQL.
 
 - Git: Para control de versiones y seguimiento de cambios en el proyecto.
 - GitHub: Para alojar el repositorio del proyecto, gestionar el control de versiones, y colaborar en el desarrollo del proyecto.
@@ -21,7 +21,7 @@ En este workshop se recibió un dataset con candidatos a la espera de ser contra
 
 ## Estructura del Repositorio :memo:
 
-La estructura del repositorio es la siguiente 
+La estructura del repositorio es la siguiente:
 
 - **Análisis_de_Datos:** Carpeta Donde tendremos los archivos donde se realizaran el análisis del dataset y sacaremos el dataset transformado con el que se realizaran las visualizaciones de datos.
     - **candidates_analisis.ipynb:** En este notebook se lleva acabo el E.D.A del dataset de candidates original para ver que tanto tiene el dataset y poder sacar diversas conclusiones y modificaciones.
